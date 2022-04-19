@@ -1,0 +1,35 @@
+body{
+	background-color:lime;
+	color: black;
+	text-align: center; 
+
+}
+.meal{
+	border-style: solid;
+	background-color: white;
+	vertical-align: top;
+	display: inline-block;
+	width: 15%;
+	text-align: center;
+	height: 300px;
+	border-radius: 10%;
+	border-color: black;
+	border-width: 5px;
+	margin: 10px;
+
+}
+img{
+	object-fit: cover; 
+	height: 180px;
+	width: 100%;
+	border-radius: 15px;
+}
+a{
+	padding: 7px;
+	text-decoration: none;
+	background-color: lime;
+	color: black;
+} 
+HTML{
+	scroll-behavior: smooth;
+}
